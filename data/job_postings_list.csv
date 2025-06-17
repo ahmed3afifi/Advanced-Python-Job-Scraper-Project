@@ -1,0 +1,48 @@
+title,company,location,summary,date_posted,url,
+Python Developer,Tech Solutions Inc.,Remote,"Develop backend services using Python, Django/Flask. API integration and database management.",Posted 2 days ago,https://www.example-indeed.com/job/python-dev-123,
+Junior Data Scientist,Data Insights LLC,New York, NY,"Analyze large datasets, build ML models. Python (Pandas, Scikit-learn) required.",Posted 5 days ago,https://www.example-indeed.com/job/jr-data-sci-456
+Backend Engineer (Python),Web Services Co.,San Francisco, CA,"Build scalable backend systems with Python, microservices, AWS/GCP.",Posted today,https://www.example-indeed.com/job/backend-eng-789
+Python Automation Tester,QA Experts Ltd.,Remote,"Create automated test scripts using Python, Selenium, Pytest.",Posted 1 week ago,https://www.example-indeed.com/job/qa-auto-012,
+Software Engineer - Python,Global Innovations,Austin, TX,"Develop next-gen software using Python, algorithms, distributed systems.",Posted 3 days ago,https://www.example-indeed.com/job/swe-python-345
+Data Analyst,Finance Corp,Chicago, IL,"Perform data analysis, create reports and visualizations. SQL and Python needed.",Posted 4 days ago,https://www.example-indeed.com/job/data-analyst-678
+Full Stack Developer (Python/React),Startup Hub,Remote,Develop web applications using Python (Flask/Django) and React.,Posted 6 days ago,https://www.example-indeed.com/job/fullstack-dev-901,
+Machine Learning Engineer,AI Research Lab,Boston, MA,Research and implement ML algorithms. PhD or MS with experience required.,Posted 2 weeks ago,https://www.example-indeed.com/job/ml-engineer-234
+DevOps Engineer (Python scripting),CloudFirst Inc.,Seattle, WA,"Manage cloud infrastructure (AWS), automate deployments using Python, Terraform.",Posted 1 day ago,https://www.example-indeed.com/job/devops-py-567
+Python Web Developer,Digital Agency,Los Angeles, CA,Build and maintain client websites using Python frameworks.,Posted 8 days ago,https://www.example-indeed.com/job/web-dev-la-890
+Senior Python Developer,Enterprise Systems,Remote,Lead development of complex backend systems. 5+ years Python experience.,Posted 10 days ago,https://www.example-indeed.com/job/sr-python-112,
+Data Engineer,Big Data Co.,Dallas, TX,"Design and build data pipelines using Spark, Kafka, Python.",Posted 5 days ago,https://www.example-indeed.com/job/data-eng-334
+Python Instructor,Coding Bootcamp,Remote,Teach Python programming concepts to students online.,Posted 3 weeks ago,https://www.example-indeed.com/job/python-instructor-556,
+Quantitative Analyst (Python),Hedge Fund Partners,New York, NY,"Develop trading algorithms using Python, statistical modeling.",Posted 2 days ago,https://www.example-indeed.com/job/quant-analyst-778
+Network Automation Engineer,Telecom Giant,Denver, CO,"Automate network tasks using Python, Ansible.",Posted 9 days ago,https://www.example-indeed.com/job/net-auto-eng-990
+Python Developer (Gaming),Game Studio X,Remote,Develop game backend services and tools using Python.,Posted 12 days ago,https://www.example-indeed.com/job/python-gaming-121,
+Bioinformatics Scientist (Python),Pharma Research,San Diego, CA,"Analyze biological data using Python, R, bioinformatics tools.",Posted 6 days ago,https://www.example-indeed.com/job/bioinfo-py-343
+Cloud Security Engineer (Python),SecureCloud Ltd.,Remote,"Implement cloud security solutions, automate security tasks with Python.",Posted 4 days ago,https://www.example-indeed.com/job/cloud-sec-py-565,
+Python Developer - Intern,Software Solutions,Atlanta, GA,Internship opportunity for students learning Python development.,Posted 1 month ago,https://www.example-indeed.com/job/python-intern-787
+Site Reliability Engineer (SRE),Platform Pro,Remote,Ensure reliability and performance of large-scale systems. Python scripting required.,Posted 7 days ago,https://www.example-indeed.com/job/sre-python-909,
+Python Backend Developer,E-commerce Platform,Remote,Build features for a high-traffic e-commerce site using Python/Django.,Posted 3 days ago,https://www.example-indeed.com/job/ecommerce-py-dev-131,
+Data Visualization Specialist,Media Insights,New York, NY,"Create compelling data visualizations using Python (Matplotlib, Seaborn, Plotly).",Posted 10 days ago,https://www.example-indeed.com/job/dataviz-spec-353
+Robotics Software Engineer (Python),Automation Inc.,Pittsburgh, PA,"Develop software for robotic systems using Python, ROS.",Posted 5 days ago,https://www.example-indeed.com/job/robotics-py-575
+Financial Software Developer (Python),FinTech Innovators,Remote,"Build financial applications using Python, Pandas, NumPy.",Posted 2 weeks ago,https://www.example-indeed.com/job/fintech-py-dev-797,
+Python Full Stack Engineer,Creative Solutions,Portland, OR,Work on both frontend (JS frameworks) and backend (Python) development.,Posted 8 days ago,https://www.example-indeed.com/job/fullstack-pdx-919
+Lead Python Engineer,ScaleUp Tech,Remote,"Lead a team of Python developers, architect backend solutions.",Posted 1 day ago,https://www.example-indeed.com/job/lead-python-eng-141,
+Geospatial Data Scientist (Python),Mapping Co.,Washington D.C.,"Analyze geospatial data using Python libraries (GeoPandas, Rasterio).",Posted 6 days ago,https://www.example-indeed.com/job/geospatial-py-363,
+Python Developer (API Focus),Connectivity Hub,Remote,"Design, build, and maintain robust APIs using Python frameworks.",Posted 9 days ago,https://www.example-indeed.com/job/python-api-dev-585,
+Machine Learning Researcher,University AI Group,Cambridge, MA,"Conduct research in machine learning, publish papers. Strong Python skills.",Posted 3 days ago,https://www.example-indeed.com/job/ml-researcher-uni-707
+Python Systems Administrator,IT Services Corp,Remote,"Manage Linux systems, automate tasks with Python scripting.",Posted 11 days ago,https://www.example-indeed.com/job/py-sysadmin-929,
+Junior Python Developer,Local Software House,Columbus, OH,Entry-level role assisting senior developers with Python projects.,Posted 4 days ago,https://www.example-indeed.com/job/jr-python-dev-cmh-151
+Data Pipeline Engineer (Python),Analytics Platform,Remote,"Build and optimize data pipelines using Python, Airflow, SQL.",Posted 7 days ago,https://www.example-indeed.com/job/data-pipeline-py-373,
+Python Software Engineer (Security),CyberDefend,Remote,Develop security-focused software and tools using Python.,Posted 1 week ago,https://www.example-indeed.com/job/py-sec-eng-595,
+Educational Content Creator (Python),LearnTech Media,Remote,"Create tutorials, articles, and videos about Python programming.",Posted 15 days ago,https://www.example-indeed.com/job/python-content-717,
+Python Developer (Trading Systems),Quant Trading Firm,Chicago, IL,Develop low-latency trading systems components using Python/C++.,Posted 5 days ago,https://www.example-indeed.com/job/py-trading-dev-939
+Senior Data Scientist,Retail Analytics Inc.,Remote,"Lead data science projects for retail clients. Python, R, SQL expertise.",Posted 2 days ago,https://www.example-indeed.com/job/sr-ds-retail-161,
+Python Web Scraper Developer,Data Extraction Service,Remote,"Build and maintain web scrapers using Python (Scrapy, Selenium, BS4).",Posted 10 days ago,https://www.example-indeed.com/job/web-scraper-py-383,
+Cloud Native Developer (Python),Platform Builders,Remote,"Develop cloud-native applications using Python, Kubernetes, Docker.",Posted 6 days ago,https://www.example-indeed.com/job/cloud-native-py-505,
+Python Developer (Healthcare Tech),MediSoft Solutions,Nashville, TN,"Build software for the healthcare industry using Python, adhering to HIPAA.",Posted 8 days ago,https://www.example-indeed.com/job/py-health-dev-727
+AI Ethics Researcher (Python focus),Responsible AI Org,Remote,"Research ethical implications of AI systems, requires Python for analysis.",Posted 3 weeks ago,https://www.example-indeed.com/job/ai-ethics-py-949,
+Python Developer (Contract),Consulting Group,Remote (6 months),Contract role for backend Python development on a specific project.,Posted 1 day ago,https://www.example-indeed.com/job/python-contract-171,
+Scientific Programmer (Python),Research Institute,Boulder, CO,Support scientific research by developing Python tools and simulations.,Posted 9 days ago,https://www.example-indeed.com/job/sci-prog-py-393
+Python/Django Developer,Web App Experts,Remote,Mid-level role focused on Django development for web applications.,Posted 4 days ago,https://www.example-indeed.com/job/django-dev-remote-515,
+Machine Learning Operations (MLOps) Engineer,AI Platform Co.,Remote,"Build and manage infrastructure for ML model deployment. Python, Docker, K8s.",Posted 1 week ago,https://www.example-indeed.com/job/mlops-eng-py-737,
+Python Technical Writer,Documentation Hub,Remote,"Write technical documentation, tutorials, and API guides for Python tools.",Posted 12 days ago,https://www.example-indeed.com/job/py-tech-writer-959,
+Embedded Software Engineer (Python),IoT Devices Ltd.,San Jose, CA,Develop embedded software using C/C++ and Python for IoT devices.,Posted 5 days ago,https://www.example-indeed.com/job/embed-py-eng-181
+Python Data Wrangler,CleanData Service,Remote,"Clean, transform, and prepare datasets for analysis using Python/Pandas.",Posted 11 days ago,https://www.example-indeed.com/job/data-wrangler-py-303,
